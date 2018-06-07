@@ -26,6 +26,7 @@ This is a simple 24 game which build on GTK+3.0.
 - [ ] Add level data editor, current the game data is store in a yaml file named `game-data.yaml`
 - [ ] Add level state store support
 - [ ] Add i10n/i18n support
+- [ ] Add package support
 
 ### Some snapshot
 ![](resources/main.png)
