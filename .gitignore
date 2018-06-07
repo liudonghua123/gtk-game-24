@@ -1,0 +1,4 @@
+*.exe
+main.glade~
+# This is just for local yaml test.
+yaml-parser.c
